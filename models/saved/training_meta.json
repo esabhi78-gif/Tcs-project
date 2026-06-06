@@ -1,0 +1,18 @@
+{
+  "training_samples": 396,
+  "test_samples": 100,
+  "models": {
+    "category": {
+      "best_model": "Linear SVC",
+      "accuracy": 0.91
+    },
+    "priority": {
+      "best_model": "Linear SVC",
+      "accuracy": 0.99
+    },
+    "department": {
+      "best_model": "Linear SVC",
+      "accuracy": 0.91
+    }
+  }
+}
