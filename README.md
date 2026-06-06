@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tcs-project
 a simple project based on ticket classfication
 =======
